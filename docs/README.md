@@ -3,13 +3,13 @@
 <h1 align="center">Orezia</h1>
 
 <p align="center">
-    <a href="https://discord.oreziamc.fr">
+    <a href="https://discord.oreziamc.fr" style="text-decoration: none">
         <img alt="Discord" src="https://img.shields.io/discord/778624251833221120?style=for-the-badge&logo=discord&logoColor=white&labelColor=6A7EC2&color=7389D8">
     </a>
-    <a href="https://oreziamc.fr">
+    <a href="https://oreziamc.fr" style="text-decoration: none">
         <img alt="Static Badge" src="https://img.shields.io/badge/orezia-2.9.2-blue?style=for-the-badge&logo=codecrafters&logoColor=white&labelColor=8ebe42&color=55afba">
     </a>
-    <a href="https://www.minecraft.net/fr-fr">
+    <a href="https://www.minecraft.net/fr-fr" style="text-decoration: none">
         <img alt="Static Badge" src="https://img.shields.io/badge/minecraft-1.21.1-blue?style=for-the-badge&logo=codecrafters&logoColor=white&labelColor=6aae3a&color=5a381e">
     </a>
 </p>
@@ -45,9 +45,9 @@ Si vous téléchargez à partir des Releases, sélectionnez le programme d'insta
 
  Plateforme | Fichier |
 | -------- | ---- |
-| Windows x64 | `Selvania-Launcher-win-x64.exe ` |
-| macOS x64 | `Selvania-Launcher-mac-x64.dmg` |
-| macOS arm64 | `Selvania-Launcher-mac-arm64.dmg` |
-| Linux x64 | `Selvania-Launcher-linux-x86_64.AppImage` |
+| Windows x64 | `Orezia-Launcher-win-x64.exe ` |
+| macOS x64 | `Orezia-Launcher-mac-x64.dmg` |
+| macOS arm64 | `Orezia-Launcher-mac-arm64.dmg` |
+| Linux x64 | `Orezia-Launcher-linux-x86_64.AppImage` |
 
 ---
