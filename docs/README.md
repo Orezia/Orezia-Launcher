@@ -40,8 +40,7 @@ Si vous téléchargez à partir des Releases, sélectionnez le programme d'insta
  Plateforme | Fichier |
 | -------- | ---- |
 | Windows x64 | `Orezia-Launcher-win-x64.exe ` |
-| macOS x64 | `Orezia-Launcher-mac-x64.dmg` |
-| macOS arm64 | `Orezia-Launcher-mac-arm64.dmg` |
+| macOS | `Orezia-Launcher-mac-universal.dmg ` |
 | Linux x64 | `Orezia-Launcher-linux-x86_64.AppImage` |
 
 ---
