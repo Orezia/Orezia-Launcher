@@ -247,6 +247,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    cursor: pointer;
 }
 
 .play-instance {
@@ -320,6 +321,7 @@
     font-size: 3rem;
     color: var(--element-color);
     margin: 0 1.5rem;
+    cursor: pointer;
 }
 
 .instance-popup {
